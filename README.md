@@ -2,6 +2,10 @@
 
 Built with [Svelte](svelte.dev/) on the frontend and leverages [Directus](directus.io/) for the backend.
 
+# Note
+
+This is not the official repository, rather a playground for myself (sinsa92) to play and mess around with the code. For the upstream repository, head over to [Paturages/mbs3](https://github.com/Paturages/mbs3).
+
 # Installation and setup
 
 Install dependencies with `yarn install` (npm should also work though your mileage may vary because this uses a `yarn.lock`).
